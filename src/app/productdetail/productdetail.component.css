@@ -1,0 +1,17 @@
+div.productdetail {
+    border: 1px solid black;
+    width: 250px;
+    min-height: 200px;
+    margin: 10px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.productdetail > h3 {
+    text-align: center;
+}
+
+.productdetail > img {
+    max-width: 250px;
+    max-height: 250px;
+}
